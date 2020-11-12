@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : tabazahra
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "zahra sadat tabatabaee"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  bio              : I'm a student of Computer Science at IUST. I enjoy learning new things and sharing what i know with others . 
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : zahratabatabaee.asl@gmail.com
+  twitter: tabazahra
+  linkedin:
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: zahratabatabaee
+  instagram: zahra_tba_
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
