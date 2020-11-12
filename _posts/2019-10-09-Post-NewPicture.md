@@ -3,7 +3,7 @@ layout: posts
 title: lots of new thing
 ---
 
-## my Explanation of lots of new things
+## lots of new things in this week
 
 Life is very strange. Each time shows you something strange and this process never ends .
 
