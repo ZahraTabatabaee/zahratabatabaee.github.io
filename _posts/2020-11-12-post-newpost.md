@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: lots of new thing
+title: lots of new things
 ---
 
 ## lots of new things in this week
