@@ -16,10 +16,10 @@ title: My Hackathon Project
 
 صفحه آغازین پروژه
 
-![alt text](C:\git\workshop\gittest\mywebsite\assets\images\7.png"safhe aval")
+![alt text](assets\images\7.png"safhe aval")
 
 
 لینک دسترسی
 
-*[link to my project](http://99521415.pythonanywhere.com/)
+[link to my project](http://99521415.pythonanywhere.com/)
 
