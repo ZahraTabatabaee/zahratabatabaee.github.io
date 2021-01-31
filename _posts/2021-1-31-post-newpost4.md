@@ -16,7 +16,7 @@ title: My Hackathon Project
 
 صفحه آغازین پروژه
 
-![alt text](assets\images\7.png"safhe aval")
+![alt text](assets\images\7.png "safhe aval")
 
 
 لینک دسترسی
