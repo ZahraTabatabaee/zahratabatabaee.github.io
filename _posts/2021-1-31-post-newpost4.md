@@ -3,23 +3,23 @@ layout: posts
 title: My Hackathon Project  
 ---
 
-#نقش و نگار
+نقش و نگار
 
 پروژه هکتان من ، درباره نقاش و نقاشی های معروف است 
 و علت انتخاب کردن این موضوع علاقه ای بود که آن ها داشتم .
 در طی انجان این پروژه اطلاعات زیادی هم از جنبه علمی و هم هنری به من اضافه شد
 
-##روش کار
+روش کار
 
 این وب اپلیکیشن دو قابلیت جست و جو و اضافه کردن دارد .
 یعنی کاربر بسته به نیاز خود میتواند از آن استفاده کند
 
-###صفحه آغازین پروژه
+صفحه آغازین پروژه
 
-![alt text](c:\C:\git\workshop\gittest\mywebsite\assets\images\7.png"safhe aval")
+![alt text](C:\git\workshop\gittest\mywebsite\assets\images\7.png"safhe aval")
 
 
-####لینک دسترسی
+لینک دسترسی
 
 *[link to my project](http://99521415.pythonanywhere.com/)
 
