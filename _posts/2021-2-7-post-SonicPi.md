@@ -30,9 +30,8 @@ title: My SonicPi Project
 کار خیلی سختی بود و من هرچه تونستم انجام دادم و از نتیجش هم تا حد زیادی راضیم<br>
 
 <br>
-لینک دسترسی به پروژه موسیقی من
-<br>
+
 </div>
-[link to my project](https://soundcloud.com/user-756948835-960246394/sonicpi)
+[لینک دسترسی به پروژه موسیقی من](https://soundcloud.com/user-756948835-960246394/sonicpi)
 <br>
 
