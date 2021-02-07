@@ -16,8 +16,7 @@ title: My Hackathon Project
 
 صفحه آغازین پروژه
 
-
-![image](C:\git\workshop\gittest\mywebsite\assets\images\7.png)
+<img src="/assets/images/7.png" alt="an image alt text">
 
 لینک دسترسی
 
