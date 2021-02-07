@@ -2,7 +2,7 @@
 layout: posts
 title: My SonicPi Project  
 ---
-
+<div dir="rtl">
 ## پروژه موسیقی من
 
 پروژه موسیقی و تقریبا آخرین کار مربوط به درس کارگاه کامپیوتر ما با یه برنامه به اسم سانیک پای شروع شد!<br>
@@ -32,4 +32,5 @@ title: My SonicPi Project
 لینک دسترسی به پروژه موسیقی من
 
 [link to my project](https://soundcloud.com/user-756948835-960246394/sonicpi)
-
+<br>
+<div>
