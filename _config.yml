@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : tabazahra
+  username               : Zhra_Tabatabaee
 facebook:
   username               : 
   app_id                 :
@@ -112,11 +112,12 @@ author:
   bio              : I'm a student of Computer Science at IUST. I enjoy learning new things and sharing what I know with others . 
   location         : "تهران"
   email            : zahratabatabaee.asl@gmail.com
-  twitter: zahra_tba_
+  twitter: Zhra_Tabatabaee
   linkedin: https://www.linkedin.com/in/zahra-sadat-tabatabaee-1467511bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3tQ2eiBmSLS9aWuS2zLxEw%3D%3D
   google_scholar: Q25s5KkAAAAJ
   github: zahratabatabaee
-  instagram: zahra_tba_
+  instagram: zhra_tabatabaee_
+  # 1
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
